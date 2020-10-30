@@ -67,3 +67,4 @@ wget
 wikipedia
 wordcloud
 youtube_search
+Noob
